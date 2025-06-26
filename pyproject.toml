@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "etsi-fliplist"
-version = "0.1.0"
+version = "0.1.1"
 description = "A simple tool from ETSI to reverse lists in different ways"
 authors = [
   { name="Priyansh Srivastava", email="your_email@example.com" }
